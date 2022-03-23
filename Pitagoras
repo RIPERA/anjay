@@ -1,0 +1,5 @@
+#Panjang Diagonal
+print("Panjang diagonal persegi panjang\n") 
+Panjang = input("p = ") 
+Lebar = input("l = ") 
+print("Panjang diagonal = ", ((int(Panjang)**2) + (int(Lebar)**2))**(1/2))
